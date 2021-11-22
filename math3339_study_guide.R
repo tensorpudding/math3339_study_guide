@@ -514,6 +514,8 @@ fisher.test(fullvax_merged)
 #                                                                             #
 ###############################################################################
 #
+# Example available https://www.itl.nist.gov/div898/software/dataplot/refman1/auxillar/binotest.htm
+#
 # When you have two Bernoulli variables X and Y, and we want to perform one-sided
 # hypothesis tests on the proportions (is p_X > p_Y?)
 # We can use the Z statistic mentioned in class:
